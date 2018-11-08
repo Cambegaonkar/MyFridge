@@ -1,8 +1,17 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 15px "Times New Roman", Helvetica, Arial, sans-serif;
+    background-color: #5c5cd6;
 }
 
 a {
   color: #00B7FF;
+}
+
+.navbar{
+    background-color: #ff4dc4;
+}
+
+.food_link{
+  color: #FFF;
 }
